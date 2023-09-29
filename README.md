@@ -7,8 +7,8 @@
  Hello everyone myself Priyanshu Kumar and I'm from Jamshedpur jharkhand.
 
 
-- ## NIMCET **AIR 514** ##
-- ## CUET SCORE **226** ##
+-    - ## NIMCET **AIR 514** ##
+-    - ## CUET SCORE **226** ##
 
 
 
