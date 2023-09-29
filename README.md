@@ -14,5 +14,11 @@
 - #### NIMCET **AIR 514** ####
 - #### CUET SCORE **226** ####
 
+## 🌱 I'm currently learning
+-  React Native
+-  DSA
+-  MONGODB
+-  NODE JS
+
 
 
