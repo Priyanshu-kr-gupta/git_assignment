@@ -4,7 +4,11 @@
 <img src="https://github.com/Priyanshu-kr-gupta/git_assignment/assets/114975117/64b4c91b-7f83-45fd-8401-117febcb80cc" width="150px" align="left"/> 
 
 
- Hello everyone myself Priyanshu Kumar and I'm from Jamshedpur jharkhand.
+Hello everyone myself Priyanshu Kumar and I'm from Jamshedpur jharkhand.
+**4 Stars** in **C++ (Hackerrank)**
+Almost **4 Stars** completed in **Problem Solving (Hackerrank)**
+**150+ Questions** solved in **Geeksforgeeks(practice)** with an overall Coding score of **102**
+
 
 
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
