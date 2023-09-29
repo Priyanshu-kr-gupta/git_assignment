@@ -1,3 +1,4 @@
+%%html
 <style>
     .blue {
         background-color: #0074D9;
