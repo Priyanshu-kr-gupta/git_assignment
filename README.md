@@ -1,3 +1,7 @@
 # Priyanshu Kumar
-![image not found](/images/priyanshu.png)
+
+
+
+- NIMCET **AIR 514**
+- CUET SCORE **226**
 
