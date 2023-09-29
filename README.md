@@ -12,6 +12,12 @@
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
+
+## EDUCATION
+-  Prusuing **MCA** from **NIT Jamshedpur**
+-  Intermediate from **DAV Public School NIT Jamshedpur campus**
+
+
 <h4 align="center">NIMCET AIR 514</h4>
 <h4 align="center">CUET SCORE 226</h4>
 
