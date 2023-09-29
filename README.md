@@ -1,4 +1,4 @@
-<div style=" background-color: #0074D9;width:100%;height:auto;">
+<div style=" background-color: #0074D9;width:100%;height:auto;align:center;">
 
 # Priyanshu Kumar #
 
