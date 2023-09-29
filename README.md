@@ -11,7 +11,8 @@
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
-
+<h3 align="center">NIMCET **AIR 514**</h3>
+<h3 align="center">CUET SCORE **226**</h3>
 
 ## 🌱 I'm currently learning
 -  React Native
@@ -19,6 +20,5 @@
 -  MONGODB
 -  NODE JS
 
-- #### NIMCET **AIR 514** ####
-- #### CUET SCORE **226** ####
+
 
