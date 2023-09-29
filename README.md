@@ -6,13 +6,14 @@
 
  Hello everyone myself Priyanshu Kumar and I'm from Jamshedpur jharkhand.
 
+
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 
-<h3 align="center">NIMCET **AIR 514**</h3>
-<h3 align="center">CUET SCORE **226**</h3>
+<h4 align="center">NIMCET AIR 514</h4>
+<h4 align="center">CUET SCORE 226</h4>
 
 ## 🌱 I'm currently learning
 -  React Native
