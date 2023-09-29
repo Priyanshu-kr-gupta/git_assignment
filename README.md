@@ -1,2 +1,2 @@
 # my name is priyanshu
-<img src="priyanshu.jpg">
+![image not found]("priyanshu.jpg")
