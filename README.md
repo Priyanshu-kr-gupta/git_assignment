@@ -6,7 +6,7 @@
 
 Hello everyone myself Priyanshu Kumar and I'm from Jamshedpur jharkhand.<br>
 **4 Stars** in **C++ (Hackerrank)**  <br>
-Almost **4 Stars** completed in **Problem Solving (Hackerrank)** <br>
+**4 Stars** completed in **Problem Solving (Hackerrank)** <br>
 **150+ Questions** solved in **Geeksforgeeks(practice)** with an overall Coding score of **102**
 
 
